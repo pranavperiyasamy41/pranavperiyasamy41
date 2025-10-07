@@ -1,63 +1,119 @@
-# 👋 Hey there, I’m **Pranav P**
+<!-- 💫 Profile README: Pranav P | AI Engineer -->
 
-### 🚀 AI Engineer | Innovator | Problem Solver  
-> “Turning complex data into intelligent solutions — one algorithm at a time.”
+<h1 align="center">👋 Hey there, I’m <span style="color:#58a6ff">Pranav P</span></h1>
+<h3 align="center">🚀 AI Engineer | Innovator | Problem Solver</h3>
+
+<p align="center">
+  <em>“”</em>
+</p>
 
 ---
 
 ### 🧠 About Me  
-I’m an **AI & Data Science Engineer** from **Coimbatore, Tamil Nadu**, passionate about building **scalable, intelligent applications** that make technology feel effortless.  
-I enjoy blending **machine learning**, **cloud systems**, and **software craftsmanship** to create meaningful digital experiences.
 
-Currently, I’m diving deeper into:  
+I’m an **AI & Data Science Engineer** from **Coimbatore, Tamil Nadu**, passionate about crafting **intelligent and scalable applications** that blend creativity with computation.  
+I enjoy transforming **machine learning models**, **cloud infrastructure**, and **software design** into seamless, real-world systems.  
+
+Currently exploring:  
 - ☁️ **AWS Cloud Architecture**  
 - 🧩 **Advanced DSA & Competitive Programming**  
 - 🤖 **Applied AI in Real-World Systems**
 
 ---
 
-### 💻 Tech Stack
-**Languages:** Python • C • Java • C++ • JavaScript  
-**Frameworks & Libraries:** React  
-**Databases:** MongoDB • PostgreSQL • MySQL  
-**Tools & Platforms:** Git • AWS  
+### 💻 Tech Stack  
+
+#### 🧑‍💻 **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+</p>
+
+#### ⚙️ **Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind" />
+</p>
+
+#### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+#### 🧰 **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,postman" />
+</p>
 
 ---
 
 ### 🏆 Achievements  
-- 🥇 **1st Place** – Web Development, PPG College  
-- 🎖️ **Top 40** – Intercollege Hackathon  
+
+🏅 **1st Place** – Web Development @ *PPG College*  
+🎖️ **Top 40** – Intercollege Hackathon  
 
 ---
 
 ### 🧩 Featured Projects  
-Here are 3 placeholders you can later fill in 👇  
 
-#### 🔹 **[Project Name 1]**  
-🧰 *Tech:* (e.g., React, Node.js, MongoDB)  
-💡 *About:* Brief description of what the project does and why it’s cool.  
-🔗 *Repo:* [GitHub Link] | 🌐 *Live:* [Demo Link]
+#### 🔹 [AI-Based Project Placeholder 1](#)
+🧰 *Tech:* React, Node.js, MongoDB  
+💡 *About:* Intelligent web app leveraging ML for smart recommendations.  
+🔗 [Repo](#) | 🌐 [Live Demo](#)
 
-#### 🔹 **[Project Name 2]**  
-🧰 *Tech:* (e.g., Python, Flask, PostgreSQL)  
-💡 *About:* A short summary of your second project.  
-🔗 *Repo:* [GitHub Link] | 🌐 *Live:* [Demo Link]
+#### 🔹 [Data Science Project Placeholder 2](#)
+🧰 *Tech:* Python, Flask, PostgreSQL  
+💡 *About:* Predictive analytics platform for decision-making using AI.  
+🔗 [Repo](#) | 🌐 [Live Demo](#)
 
-#### 🔹 **[Project Name 3]**  
-🧰 *Tech:* (e.g., Next.js, AWS, Socket.IO)  
-💡 *About:* Another key project with a focus on innovation or AI.  
-🔗 *Repo:* [GitHub Link] | 🌐 *Live:* [Demo Link]
+#### 🔹 [Cloud Automation Project Placeholder 3](#)
+🧰 *Tech:* AWS, Next.js, Socket.IO  
+💡 *About:* Real-time cloud automation dashboard for scalable systems.  
+🔗 [Repo](#) | 🌐 [Live Demo](#)
 
 ---
 
 ### 🌐 Connect with Me  
-🔗 **LinkedIn:** [linkedin.com/in/pranav41](https://www.linkedin.com/in/pranav41)  
-💻 **GitHub:** [github.com/pranavperiyasamy41](https://github.com/pranavperiyasamy41)  
-📧 **Email:** [kit27.ad41@gmail.com](mailto:kit27.ad41@gmail.com)  
-🧮 **LeetCode:** [leetcode.com/u/pranav_041](https://leetcode.com/u/pranav_041/)  
-🥇 **CodeChef:** [codechef.com/users/pranav_p](https://www.codechef.com/users/pranav_p)  
-🏆 **Codolio:** [codolio.com/profile/Pranav@p](https://codolio.com/profile/Pranav@p)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav41" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48px" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/pranavperiyasamy41" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48px" alt="GitHub"/>
+  </a>
+  <a href="mailto:kit27.ad41@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="48px" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/pranav_041/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="48px" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/pranav_p" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="40px" alt="CodeChef"/>
+  </a>
+  <a href="https://codolio.com/profile/Pranav@p" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codolio-a-platform-for-competitive-programming-logo-shadow-tal-revivo.png" width="48px" alt="Codolio"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavperiyasamy41&show_icons=true&theme=radical" alt="Pranav's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavperiyasamy41&theme=radical" alt="Pranav's Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavperiyasamy41&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
 ⭐ *“Passionate about shaping ideas into impactful AI solutions that scale beyond imagination.”*  
+
+---
+
+<!-- Optional animated typing intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Innovator+%7C+Problem+Solver;Transforming+Data+into+Intelligent+Solutions;Building+Scalable+AI+Systems+with+Purpose;Turning+Ideas+into+Impact+💡">
+</p>
