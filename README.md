@@ -1,13 +1,11 @@
 <!-- Profile README: Pranav P | AI Engineer -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Pranav%20P&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,20:F06292,40:BA68C8,60:64B5F6,80:4DD0E1,100:81C784&height=300&section=header&text=Pranav%20P&fontSize=95&fontAlign=50&fontAlignY=38&fontColor=ffffff&animation=fadeIn&stroke=1a1a2e&strokeWidth=3&desc=✨%20AI%20Engineer%20•%20Innovator%20•%20Problem%20Solver%20✨&descAlign=50&descAlignY=58&descSize=22" width="100%"/>
 </div>
 
-<h3 align="center">AI Engineer | Innovator | Problem Solver</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=667eea&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Innovator+%7C+Problem+Solver;Transforming+Data+into+Intelligent+Solutions;Building+Scalable+AI+Systems+with+Purpose;Turning+Ideas+into+Impact">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=+Welcome+to+my+GitHub+Profile!;+Building+the+Future+with+AI;+Let's+Create+Something+Amazing!;" alt="Animated Text" />
 </p>
 
 ---
@@ -68,20 +66,15 @@ Currently exploring:
 
 ### Featured Projects  
 
-#### [AI-Based Project Placeholder 1](#)
+#### [Hidddo](https://github.com/pranavperiyasamy41/HIDDO-Project)
 **Tech:** React, Node.js, MongoDB  
-**About:** Intelligent web app leveraging ML for smart recommendations.  
-[Repo](#) | [Live Demo](#)
+**About:** Web-based social media platform.  
+[Repo](https://github.com/pranavperiyasamy41/HIDDO-Project)
 
-#### [Data Science Project Placeholder 2](#)
-**Tech:** Python, Flask, PostgreSQL  
-**About:** Predictive analytics platform for decision-making using AI.  
-[Repo](#) | [Live Demo](#)
-
-#### [Cloud Automation Project Placeholder 3](#)
-**Tech:** AWS, Next.js, Socket.IO  
-**About:** Real-time cloud automation dashboard for scalable systems.  
-[Repo](#) | [Live Demo](#)
+#### [Mirror Verse](https://github.com/pranavperiyasamy41/Mirror-Verse)
+**Tech:** HTML, CSS, JavaScript  
+**About:** Immersive Multiplayer Adventure Game.  
+[Repo](https://github.com/pranavperiyasamy41/Mirror-Verse)
 
 ---
 
@@ -117,7 +110,6 @@ Currently exploring:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavperiyasamy41&theme=radical" alt="Pranav's Streak" width="48%" />
 </p>
 
-
 ---
 
 <p align="center">
@@ -125,3 +117,7 @@ Currently exploring:
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:81C784,20:4DD0E1,40:64B5F6,60:BA68C8,80:F06292,100:FF6B6B&height=150&section=footer" width="100%"/>
+</div>
