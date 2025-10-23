@@ -1,7 +1,7 @@
 <!-- Profile README: Pranav P | AI Engineer -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,20:F06292,40:BA68C8,60:64B5F6,80:4DD0E1,100:81C784&height=300&section=header&text=Pranav%20P&fontSize=95&fontAlign=50&fontAlignY=38&fontColor=ffffff&animation=fadeIn&stroke=1a1a2e&strokeWidth=3&desc=✨%20AI%20Engineer%20•%20Innovator%20•%20Problem%20Solver%20✨&descAlign=50&descAlignY=58&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,20:F06292,40:BA68C8,60:64B5F6,80:4DD0E1,100:81C784&height=300&section=header&text=Pranav%20P&fontSize=95&fontAlign=50&fontAlignY=38&fontColor=ffffff&animation=fadeIn&stroke=1a1a2e&strokeWidth=3&desc=✨%20AI%20Engineer%20•%20Problem%20Solver%20✨&descAlign=50&descAlignY=58&descSize=22" width="100%"/>
 </div>
 
 <p align="center">
