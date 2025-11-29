@@ -69,7 +69,7 @@ Currently exploring:
 #### [Zyra-Smart Inventory](https://github.com/pranavperiyasamy41/Zyra-Smart Inventory)
 **Tech:** React,Typescript, MongoDB  
 **About:** Pharmacy Invertary System.  
-[Repo](https://github.com/pranavperiyasamy41/Zyra-Smart Inventory)
+[Repo](https://github.com/pranavperiyasamy41/Zyra-SmartInventory)
 
 #### [Mirror Verse](https://github.com/pranavperiyasamy41/Mirror-Verse)
 **Tech:** HTML, CSS, JavaScript  
