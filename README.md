@@ -66,10 +66,10 @@ Currently exploring:
 
 ### Featured Projects  
 
-#### [Hidddo](https://github.com/pranavperiyasamy41/HIDDO-Project)
-**Tech:** React, Node.js, MongoDB  
-**About:** Web-based social media platform.  
-[Repo](https://github.com/pranavperiyasamy41/HIDDO-Project)
+#### [Zyra-Smart Inventory](https://github.com/pranavperiyasamy41/Zyra-Smart Inventory)
+**Tech:** React,Typescript, MongoDB  
+**About:** Pharmacy Invertary System.  
+[Repo](https://github.com/pranavperiyasamy41/Zyra-Smart Inventory)
 
 #### [Mirror Verse](https://github.com/pranavperiyasamy41/Mirror-Verse)
 **Tech:** HTML, CSS, JavaScript  
