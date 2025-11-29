@@ -66,7 +66,7 @@ Currently exploring:
 
 ### Featured Projects  
 
-#### [Zyra-Smart Inventory](https://github.com/pranavperiyasamy41/Zyra-Smart Inventory)
+#### [Zyra-Smart Inventory](https://github.com/pranavperiyasamy41/Zyra-SmartInventory)
 **Tech:** React,Typescript, MongoDB  
 **About:** Pharmacy Invertary System.  
 [Repo](https://github.com/pranavperiyasamy41/Zyra-SmartInventory)
