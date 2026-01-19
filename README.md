@@ -108,9 +108,6 @@ Currently exploring:
   <img src="https://github-readme-stats.vercel.app/api?username=pranavperiyasamy41&show_icons=true&theme=radical" width="48%" />
 </p>
 
-### GitHub Activity  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavperiyasamy41&theme=radical)
 
 ### 🐍 Contribution Snake
 
