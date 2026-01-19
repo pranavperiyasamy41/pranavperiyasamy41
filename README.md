@@ -112,7 +112,9 @@ Currently exploring:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavperiyasamy41&theme=radical)
 
+### 🐍 Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/pranavperiyasamy41/pranavperiyasamy41/output/github-snake.svg)
 
 ---
 
